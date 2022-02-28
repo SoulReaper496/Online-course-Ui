@@ -1,0 +1,87 @@
+[
+  {
+    "title": "React",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "Reactjs",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "javascript",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "html",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "css",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "redux",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "angular",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "vue",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+
+  {
+    "title": "vscode",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "linux",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "macos",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  },
+  {
+    "title": "excel",
+    "lectures": "10",
+    "time": 22,
+    "ratings": 4.9,
+    "views": 111
+  }
+]
